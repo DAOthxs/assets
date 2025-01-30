@@ -7,7 +7,7 @@ pictures = {
     "Access denied": "",
     "Access granted": "",
     "Connect": "",
-    "Welcome to chat: "",
+    "Welcome to chat": "",
     "TOP holders": "",
     "TOP select token": "",
     "Balance command": "",
