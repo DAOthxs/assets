@@ -1,5 +1,5 @@
 # How to Deposit Satoshi Tribute Liquidity on Dedust
-In liquidity provision, two tokens are always added in equal proportions based on the current rate on DeDust.io. E.g. if you are adding 100 SATOSHI, the exchange interface will automatically determine the necessary amount of TON to add liquidity.
+In liquidity provision, two tokens are always added in equal proportions based on the current rate on DeDust.io. E.g. if you are adding 2000 SATOSHI, the exchange interface will automatically determine the necessary amount of TON to add liquidity.
 
 ❗Blockchain fees are applied when you add or withdraw tokens from the liquidity pool. Therefore, it is advisable to retain a balance of at least 1,5 TON in your wallet. Still, these fees are relatively small.
 ## W**hat you need to add SATOSHI to the liquidity pool**
@@ -11,7 +11,7 @@ In liquidity provision, two tokens are always added in equal proportions based o
 2. Search for the liquidity pair you want or pick from the list — we're using SATOSHI/TON.
 3. Select the pool to see pool details and tap on the 'Deposit' button.
 
-|        |        |        |
+|![Step 1](./0001.png)|![Step 2](./0002.png)|![Step 3](./0003.png)|
 | ------ | ------ | ------ |
 | Step 1 | Step 2 | Step 3 |
 
@@ -19,14 +19,15 @@ In liquidity provision, two tokens are always added in equal proportions based o
 E.g. if you add 2000 SATOSHI, it will calculate the amount of TON you need.
 5. Tap on the 'Deposit' button to continue.
 6. DeDust.io will ask you to confirm the entry. If everything's correct, tap on the 'Confirm' button.
-|        |        |        |
+
+|![Step 4](./0004.png)|![Step 5](./0005.png)|![Step 6](./0006.png)|
 | ------ | ------ | ------ |
 | Step 4 | Step 5 | Step 6 |
 
 7. Your wallet will ask you to confirm the transaction. Slide for confirmation and verify using your PIN or biometrics.
 8. Check if tokens are added to the pool in the Portfolio section.
 
-|        |        |
+|![Step 7](./0007.png)|![Step 8](./0008.png)|
 | ------ | ------ |
 | Step 7 | Step 8 |
 
