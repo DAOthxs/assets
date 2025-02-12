@@ -9,7 +9,7 @@ In liquidity provision, two tokens are always added in equal proportions based o
 ## How to add liquidity
 1. Open the Pools section.
 2. Search for the liquidity pair you want or pick from the list — we're using SATOSHI/TON.
-3. Select the pool to see pool details and tap on the 'Deposit' button.
+3. Select the pool to see pool details and tap on the `Deposit` button.
 
 |![Step 1](./0001.png)|![Step 2](./0002.png)|![Step 3](./0003.png)|
 | ------ | ------ | ------ |
@@ -17,8 +17,8 @@ In liquidity provision, two tokens are always added in equal proportions based o
 
 4. Enter the TON amount you want to add or the amount of SATOSHI tokens. The system will calculate the other token's amount for you.
 E.g. if you add 2000 SATOSHI, it will calculate the amount of TON you need.
-5. Tap on the 'Deposit' button to continue.
-6. DeDust.io will ask you to confirm the entry. If everything's correct, tap on the 'Confirm' button.
+5. Tap on the `Deposit` button to continue.
+6. DeDust.io will ask you to confirm the entry. If everything's correct, tap on the `Confirm` button.
 
 |![Step 4](./0004.png)|![Step 5](./0005.png)|![Step 6](./0006.png)|
 | ------ | ------ | ------ |
